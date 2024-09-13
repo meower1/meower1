@@ -11,4 +11,4 @@
 
 
 # Tools:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,ansible,git,postgresql,mongodb,grafana,prometheus,debian,ubuntu,bsd,arduino,jekyll,hugo,digitalocean,azure,raspberrypi,zed,vscodium,tor)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,ansible,git,postgresql,mongodb,grafana,prometheus)
