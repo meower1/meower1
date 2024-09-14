@@ -3,7 +3,7 @@
 ##### I'm a freelance Software Engineer, open to contributing to open-source projects and collaborating on innovative solutions.
 
 ## My expertise:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,linux,postgresql)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,linux,python)
 
 
 # Languages:
